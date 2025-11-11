@@ -8,7 +8,7 @@ Finally, done with AWS SAA certification! 🎉
 
 ## Why AWS SAA?
 
-Couple of weeks back, I gave AWS SAA (Solutions Architect Associate)-C003 certification exam.
+Couple of weeks back, I gave [AWS SAA (Solutions Architect Associate)-C003](https://aws.amazon.com/certification/certified-solutions-architect-associate/) certification exam.
 I managed to clear the exam in first attempt.
 It took me almost 9 months of persistence to clear the exam.
 It took me so long partially due to vastness of syllabus and also balancing the personal and professional commitments.
