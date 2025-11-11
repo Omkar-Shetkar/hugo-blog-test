@@ -34,7 +34,3 @@ I mainly dependent on [AWS SAA book](https://www.amazon.com/Certified-Solutions-
 ## What's Next?
 
 Now, to reinforce the concepts learned during preparation doing a few hands-on AWS projects.
-
-## Summary
-
-post summary here
