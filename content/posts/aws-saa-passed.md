@@ -6,6 +6,8 @@ title = 'Passed AWS SAA Certification'
 
 Finally, done with [AWS SAA certification](https://www.credly.com/badges/cef2e988-f4ad-44e7-8a72-27f3c59f2715/public_url)! 🎉
 
+![AWS SAA](/images/aws-saa.png)
+
 ## Why AWS SAA?
 
 Couple of weeks back, I gave [AWS SAA (Solutions Architect Associate)-C003](https://aws.amazon.com/certification/certified-solutions-architect-associate/) certification exam.
