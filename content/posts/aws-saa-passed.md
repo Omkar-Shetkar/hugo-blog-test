@@ -4,7 +4,7 @@ draft = false
 title = 'Passed AWS SAA Certification'
 +++
 
-Finally, done with AWS SAA certification! 🎉
+Finally, done with [AWS SAA certification](https://www.credly.com/badges/cef2e988-f4ad-44e7-8a72-27f3c59f2715/public_url)! 🎉
 
 ## Why AWS SAA?
 
